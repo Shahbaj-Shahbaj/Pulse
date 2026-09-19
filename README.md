@@ -72,36 +72,37 @@ Coming Soon (Vercel)
 Coming Soon (Render)
 
 ---
-
 # 📸 Application Preview
 
 ## 🏠 Home Feed
 
-![Home](home-light-latest.png)
+![Home](screenshots/home-light-latest.png)
 
 ---
 
 ## 🌙 Dark Mode
 
-![Dark Mode](home-dark-latest.png)
+![Dark Mode](screenshots/home-dark-latest.png)
 
 ---
 
 ## ✍️ Create Post
 
-![Create Post](create-post-latest.png)
+![Create Post](screenshots/create-post-latest.png)
 
 ---
 
 ## 👤 User Profile
 
-![Profile](profile-latest.png)
+![Profile](screenshots/profile-latest.png)
 
 ---
 
 ## 🔐 Login Page
 
-![Login](login-latest.png)
+![Login](screenshots/login-latest.png)
+
+---
 
 ---
 
