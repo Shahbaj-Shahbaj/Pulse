@@ -198,3 +198,42 @@ Coming Soon (Render)
       Session Authentication
               │
         MongoDB Atlas
+
+
+# 👨‍💻 Author
+
+## Shahbaj
+
+Computer Science Engineering Student
+
+National Institute of Technology Agartala
+
+### Connect with me
+
+**GitHub**
+
+https://github.com/Shahbaj-Shahbaj
+
+**Project Repository**
+
+https://github.com/Shahbaj-Shahbaj/Pulse
+
+---
+
+# ⭐ Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
+
+It motivates me to build more projects and continue learning.
+
+---
+
+<div align="center">
+
+## 🚀 Thank You for Visiting!
+
+### Made with ❤️ by Shahbaj using React, Node.js, Express.js & MongoDB
+
+⭐ **Don't forget to Star this Repository!** ⭐
+
+</div>
