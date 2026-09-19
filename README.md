@@ -77,31 +77,31 @@ Coming Soon (Render)
 
 ## 🏠 Home Feed
 
-![Home](screenshots/home-light.png)
+![Home](home-light-latest.png)
 
 ---
 
 ## 🌙 Dark Mode
 
-![Dark Mode](screenshots/home-dark.png)
+![Dark Mode](home-dark-latest.png)
 
 ---
 
 ## ✍️ Create Post
 
-![Create Post](screenshots/create-post.png)
+![Create Post](create-post-latest.png)
 
 ---
 
 ## 👤 User Profile
 
-![Profile](screenshots/profile.png)
+![Profile](profile-latest.png)
 
 ---
 
 ## 🔐 Login Page
 
-![Login](screenshots/login.png)
+![Login](login-latest.png)
 
 ---
 
