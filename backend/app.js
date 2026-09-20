@@ -34,9 +34,8 @@ store.on("error", (err) => {
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://social-sphere-full-stack.vercel.app",
-  "https://social-sphere-full-stack-1l4d.vercel.app",
-];
+  process.env.FRONTEND_URL,
+].filter(Boolean);
 
 app.use(
   cors({
